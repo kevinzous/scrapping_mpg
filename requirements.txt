@@ -1,0 +1,5 @@
+chromedriver==86.0.4240.22
+python==3.8.3
+selenium==3.141.0
+pandas==1.0.5
+numpy==1.18.5
